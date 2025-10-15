@@ -14,8 +14,8 @@
 - [Bachelor's Degree](https://github.com/beltran99/bachelor-diploma) @ University of Vigo (2017 - 2021)
 
 ### Projects 🐾
-- [MUSE TF -> PT](https://github.com/dayyass/muse_tf2pt) - convert Multilingual Universal Sentence Encoder from TensorFlow to PyTorch and ONNX
-- [QaNER](https://github.com/dayyass/QaNER) - unofficial implementation of QaNER paper (NER via Extractive Question Answering)
+- [Weather stream](https://github.com/beltran99/weather-stream) - Real-Time weather data pipeline built with Open-Meteo API and Apache Kafka.
+- [MapReduce for Word Count](https://github.com/beltran99/mapreduce) - Word Count implementation using MapReduce framework, gRPC and Python 3.8.10.
 
 ### How to reach me 📫
 - 📧 [Work email](mailto:beltran.castro.gomez@gmail.com)
