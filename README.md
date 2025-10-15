@@ -16,6 +16,7 @@
 ### Projects 🐾
 - [Weather stream](https://github.com/beltran99/weather-stream) - Real-Time weather data pipeline built with Open-Meteo API and Apache Kafka.
 - [MapReduce for Word Count](https://github.com/beltran99/mapreduce) - Word Count implementation using MapReduce framework, gRPC and Python 3.8.10.
+- [TreasureRoom-RL](https://github.com/beltran99/TreasureRoom-RL) - Grid-world environment where a Reinforcement Learning agent has to find a treasure in a room with different obstacles. 
 
 ### How to reach me 📫
 - 📧 [Work email](mailto:beltran.castro.gomez@gmail.com)
