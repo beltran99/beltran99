@@ -14,10 +14,10 @@
 - [Bachelor's Degree](https://github.com/beltran99/bachelor-diploma) @ University of Vigo (2017 - 2021)
 
 ### Projects 🐾
-- [Weather stream](https://github.com/beltran99/weather-stream) - Real-Time weather data pipeline built with Open-Meteo API and Apache Kafka.
+- [Weather stream](https://github.com/beltran99/weather-stream) - Real-time weather data pipeline built with Open-Meteo API and Apache Kafka.
 - [MapReduce for Word Count](https://github.com/beltran99/mapreduce) - Word Count implementation using MapReduce framework, gRPC and Python 3.8.10.
 - [TreasureRoom-RL](https://github.com/beltran99/TreasureRoom-RL) - Grid-world environment where a Reinforcement Learning agent has to find a treasure in a room with different obstacles.
-- [AnimeRecommender](https://github.com/beltran99/AnimeRecommender) - Anime recommendation system based on Surprise with a tkinter-based GUI.
+- [AnimeRecommender](https://github.com/beltran99/AnimeRecommender) - Anime recommendation system built with Surprise and a tkinter-based GUI.
 
 ### Research publications
 1. Beltran Castro Gomez, Yannick Werner, and Sonja Wogrin. “Towards Time Series Aggregation with Exact Error Quantification for Optimization of Energy Systems”. In: _2025 21st International Conference on the European Energy Market (EEM)_. 2025, pp. 1–9. DOI: [10.1109/EEM64765.2025.11050224](https://doi.org/10.1109/EEM64765.2025.11050224).
