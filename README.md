@@ -19,7 +19,7 @@
 - [TreasureRoom-RL](https://github.com/beltran99/TreasureRoom-RL) - Grid-world environment where a Reinforcement Learning agent has to find a treasure in a room with different obstacles.
 - [AnimeRecommender](https://github.com/beltran99/AnimeRecommender) - Anime recommendation system built with Surprise and a tkinter-based GUI.
 
-### Research publications
+### Research publications 📝
 1. Beltran Castro Gomez, Yannick Werner, and Sonja Wogrin. “Towards Time Series Aggregation with Exact Error Quantification for Optimization of Energy Systems”. In: _2025 21st International Conference on the European Energy Market (EEM)_. 2025, pp. 1–9. DOI: [10.1109/EEM64765.2025.11050224](https://doi.org/10.1109/EEM64765.2025.11050224).
 
 ### How to reach me 📫
